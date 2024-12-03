@@ -64,8 +64,8 @@ button:hover {
 /* 개별 메뉴 아이템 스타일 */
 .menu-item {
     display: flex;
-    align-items: flex-start;
     margin-bottom: 20px;
+    text-align: left
 }
 
 /* 메뉴 이미지 크기 조절 */
